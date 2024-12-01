@@ -1,8 +1,7 @@
-
 using ChatApplication.Data.Context;
 using Microsoft.EntityFrameworkCore;
 
-namespace ChatApplication
+namespace ChatApplication.Presentation
 {
     public class Program
     {
